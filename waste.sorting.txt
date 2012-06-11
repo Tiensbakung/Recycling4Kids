@@ -21,6 +21,6 @@ green container:
 	- house plant
 
 electronic
-	- cell phone
+	- cell phone (i)
 	- hair dryer
 	- printer
