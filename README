@@ -16,4 +16,4 @@
 
     +containers:                  all container images.
 
-    waste:                        all waste.
+    +waste:                       all waste.
