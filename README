@@ -12,8 +12,8 @@
 
 +images:                          all images used in the project.
 
-    +backgrounds:                 all background images.
+    +backgrounds[480 * 640]:      all background images.
 
-    +containers:                  all container images.
+    +containers[65 * 100]:        all container images.
 
-    +waste:                       all waste.
+    +waste[60 * 76]:              all waste.
