@@ -1,2 +1,19 @@
-Hello World
-2nd line.
+-Recycling4Kids.capx:             main code file.
+
+-Recycling4Kids.capx.backup1:     auto backup by C2.
+
+-waste.sorting.txt:               waste sorting scheme.
+
++data:                            all data used in the project.
+
+    -arrRightContainer.txt:       init data for array arrRightContainer
+
+    -arrScore.txt:                init data for array arrScore
+
++images:                          all images used in the project.
+
+    +backgrounds:                 all background images.
+
+    +containers:                  all container images.
+
+    waste:                        all waste.
