@@ -23,4 +23,4 @@ green container:
 electronic
 	- cell phone (i)
 	- hair dryer
-	- printer
+	- cd (i)
