@@ -1,0 +1,6 @@
+# Value for all the waste.
+# Frame index has been used for the arry index, carefor for the consistency.
+# Also remember this is just a backup, don't forget to paste it to the 
+# corresponding place in the event sheet.
+
+"{""c2array"":true,""size"":[16,1,1],""data"":[[[10]],[[10]],[[10]],[[10]],[[10]],[[10]],[[10]],[[10]],[[10]],[[10]],[[10]],[[10]],[[10]],[[10]],[[10]],[[10]]]}"

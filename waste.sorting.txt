@@ -1,0 +1,26 @@
+# waste sorting scheme for the game.
+# Follwing 'i' in the parentheses indicates there is already a image for it.
+
+Yellow container:
+	- bag 
+	- plastic bottle (i)
+	- milk carton (i)
+	- drink can (i)
+	- bottle cork
+
+Blue container:
+	- paper (i)
+	- newspaper (i)
+	- paper bag (i)
+	- cardboard
+
+green container:
+	- apple core (i)
+	- coffee filter or tea bag
+	- cheese
+	- house plant
+
+electronic
+	- cell phone
+	- hair dryer
+	- printer
