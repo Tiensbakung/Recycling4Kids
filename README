@@ -14,6 +14,24 @@
 
     +backgrounds[480 * 640]:      all background images.
 
-    +containers[65 * 100]:        all container images.
+        -background1.png          background for level 1.
 
-    +waste[60 * 76]:              all waste.
+	-background2.png          background for level 2.
+
+	-bg_main.png              background for main menu.
+
+    +buttons:                     text images for buttons.
+
+        -play.png                 text image for the play button.
+
+	-high.score.png           text image for the high score button.
+
+	-level_1.png              text image for choosing the level 1 button.
+
+	-level_2.png              text image for choosing the level 2 button.
+
+	-help.png                 text image for the help button.
+
+    +containers:                  all container images.
+
+    +waste:                       all waste.
