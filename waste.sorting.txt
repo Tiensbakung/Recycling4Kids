@@ -6,7 +6,7 @@ Yellow container:
 	- plastic bottle (i)
 	- milk carton (i)
 	- drink can (i)
-	- bottle cork
+	- bottle cork (i)
 
 Blue container:
 	- paper (i)
