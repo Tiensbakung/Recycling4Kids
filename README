@@ -20,6 +20,8 @@
 
 	-bg_main.png              background for main menu.
 
+	-bg_chooselevel.png       background for choose level screen.
+
     +buttons:                     text images for buttons.
 
         -play.png                 text image for the play button.
