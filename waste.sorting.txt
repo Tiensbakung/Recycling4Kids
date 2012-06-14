@@ -16,6 +16,9 @@ Blue container:
 
 green container:
 	- apple core (i)
+	- banana (i)
+	- citrus/lemon (i)
+	- strawberrys (i)
 	- coffee filter or tea bag
 	- cheese
 	- house plant
