@@ -14,13 +14,15 @@
 
     +backgrounds[480 * 640]:      all background images.
 
-        -background1.png          background for level 1.
+        -bg_level_1.png           background for level 1.
 
-	-background2.png          background for level 2.
+	-bg_level_2.png           background for level 2.
 
 	-bg_main.png              background for main menu.
 
 	-bg_chooselevel.png       background for choose level screen.
+
+	-bg_base.png              transparant image for collision checking[Do not change]
 
     +buttons:                     text images for buttons.
 
@@ -33,6 +35,8 @@
 	-level_2.png              text image for choosing the level 2 button.
 
 	-help.png                 text image for the help button.
+
+	-gameover.png             text image for showing game over.
 
     +containers:                  all container images.
 
